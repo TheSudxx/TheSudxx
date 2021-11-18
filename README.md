@@ -5,7 +5,8 @@
 <h3 align="center">You haven't even seen my bad side yet.
 
 <h4 align="left"> Don't be racist </h4> <div align="right"> <img src="./media/symbol.png"width="90px"> </div>
-<h4 align="left"> Hate everyone equally. </h4>
+
+#### Hate everyone equally.
 
 #### Languages used
 
