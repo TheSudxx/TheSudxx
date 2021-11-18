@@ -1,4 +1,5 @@
-<h1 align="center"><img src="./media/symbol.png"width="30px"> SHINOY FROSTER <img src="./media/symbol.png"width="30px"></h1> 
+<h1 align="center"> SHINOY FROSTER </h1> 
+<h1 align="center"> <img src="./media/symbol.png"width="30px"> SHADOW <img src="./media/symbol.png"width="30px"> </h1>
 
 <div align="center"> <img src="./media/satan.jpeg"> </div>
 
