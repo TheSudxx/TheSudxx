@@ -8,9 +8,8 @@
 
 #### Hate everyone equally.
 
-#### Languages used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoyFroster&layout=compact)](https://github.com/ShinoyFroster/github-readme-stats)
+
 
 
 
