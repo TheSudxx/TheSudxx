@@ -4,7 +4,7 @@
 
 <h3 align="center">You haven't even seen my bad side yet.
 
-<div align="center"> <img src="./media/symbol.png"width="90px"> </div>
+<div align="right"> <img src="./media/symbol.png"width="90px"> </div>
 
 #### Languages used
 
