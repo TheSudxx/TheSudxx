@@ -9,6 +9,9 @@
 #### Hate everyone equally.
 
 
+<div align="center"> <img src="./media/satanword.png"> </div>
+
+
 
 
 
