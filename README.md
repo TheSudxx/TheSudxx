@@ -6,7 +6,7 @@
 
 <h4 align="left"> Don't be racist </h4> <div align="right"> <img src="./media/symbol.png"width="90px"> </div>
 
-#### • Hate everyone equally.
+#### Hate everyone equally.
 
 
 <div align="center"> <img src="./media/satanword.png"> </div>
