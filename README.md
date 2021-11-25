@@ -2,11 +2,13 @@
 
 <div align="center"> <img src="./media/satan.jpeg"> </div>
 
-<h3 align="center">You haven't even seen my bad side yet.
+<h3 align="center">You haven't even seen my bad side yet. </h3>
 
-<h4 align="left"> Don't be racist </h4> <div align="right"> <img src="./media/symbol.png"width="90px"> </div>
+- **Don't be racist**
 
-**Hate everyone equally.**
+<div align="right"> <img src="./media/symbol.png"width="90px"> </div>
+
+- **Hate everyone equally.**
 
 
 <div align="center"> <img src="./media/satanword.png"> </div>
