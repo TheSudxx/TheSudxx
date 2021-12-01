@@ -1,8 +1,4 @@
-<div align="center"> <img src="./media/satan.jpeg"> </div>
-
-<div align="right"> <img src="./media/symbol.png"width="90px"> </div>
-
-<img src="./media/satanword.png">
+### Hi there, I'm Shinoy Froster👋 
 
 
 
