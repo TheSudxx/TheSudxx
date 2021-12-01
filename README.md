@@ -22,5 +22,5 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord
 
 [website]: https://top.gg/bot/833248024326963201
 [Github]: https://github.com/ShinoyFroster 
-[Discord]: https://discord.com/users/538567148277202944
+[Discord]: https://discord.com/users/659644949658075156
 
