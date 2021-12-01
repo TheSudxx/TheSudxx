@@ -2,9 +2,9 @@
 
 
 ## I'm a new Developer 
-- 
+・⬪・──────・⬪・・⬪・──────・⬪・
 - 🌱 I’m currently learning everything 🙂
-
+・⬪・──────・⬪・・⬪・──────・⬪・
 ### Connect with me: 
 [<img align="left" alt="ShinoyFroster" width="22px" 
 src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
