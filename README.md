@@ -1,5 +1,5 @@
 ### Hi there, I'm Shinoy Froster👋 
-<img align="center" src="./media/Shinoy Froster.jpg" width="33px" />
+<img align="center" src="./media/Shinoy Froster.jpg" />
 ・⬪・────・⬪・・⬪・────・⬪・
 
 ## I'm a new Developer 
