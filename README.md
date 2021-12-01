@@ -1,7 +1,9 @@
 ### Hi there, I'm Shinoy Froster👋 
 
 
-
+## I'm a new Developer 
+- 
+- 🌱 I’m currently learning everything 🙂
 
 ### Connect with me: 
 [<img align="left" alt="ShinoyFroster" width="22px" 
