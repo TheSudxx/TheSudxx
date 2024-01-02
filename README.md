@@ -1,4 +1,4 @@
-### Hi there, I'm Shinoy Froster👋 
+### Hi there, I'm Sudxx👋 
 <img align="center" src="./media/Shinoy Froster.jpg" />
 ・⬪・────・⬪・・⬪・────・⬪・
 
