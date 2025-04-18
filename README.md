@@ -1,9 +1,9 @@
 Hi there, I'm Sudxx 👋
 
-<h3 align="center">
+<h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=New+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
-</h3>
----
+</h4>
+
 
 🚀 About Me
 
