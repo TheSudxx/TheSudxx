@@ -1,10 +1,5 @@
 Hi there, I'm Sudxx 👋
 
-<p align="center">
-  <img src="./media/Shinoy Froster.jpg" alt="Shinoy Froster" width="300px" />
-</p>
----
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=New+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 </h3>
