@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://top.gg/bot/833248024326963201" target="_blank">
+  <a href="https://thesudxx.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/TheSudxx" target="_blank">
