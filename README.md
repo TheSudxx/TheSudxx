@@ -1,5 +1,5 @@
 ### Hi there, I'm Sudxx👋 
-<img align="center" src="./media/Shinoy Froster.jpg" />
+<img align="center" src="./media/TheSudxx.gif" />
 ・⬪・────・⬪・・⬪・────・⬪・
 
 ## I'm a new Developer 
